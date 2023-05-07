@@ -4,7 +4,7 @@
 ### Hello and Welcome 👋, I'm Muhammad Yousuf
 
 ### I'm a Developer, and Content Creator (in future) - codinginkarachi
-<p align="left"> <img src="https://komarev.com/ghpvc/?MuhammadYousufHere&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadYousuf" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?muhammadyousufhere&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadYousuf" /> </p>
 <!-- - 👨🏽‍🎓  -->
 <!-- - 🌱  -->
 - 📚 I'm constantly learning new skills and _striving for progress_
