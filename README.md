@@ -12,6 +12,7 @@
 - 🏆 Goal: Be the person I needed when I was younger
 - 💬 Ask me about **React.js, Next.js, MongoDB, Javascript**
 - ⚡ Motto: _Keep striving for progress, not perfection_
+- 📫 How to reach me: [khanyousufmy80@gmail.com](mailto:khanyousufmy80@gmail.com)
 
 <!-- ### 📺 Latest Youtube Videos -->
 <!-- YOUTUBE:START -->
