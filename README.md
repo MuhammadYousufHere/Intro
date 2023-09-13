@@ -3,7 +3,7 @@
 
 ### Hello and Welcome 👋, I'm Muhammad Yousuf
 
-### I'm MERN Stack Developer and Content Creator (in future) - codinginkarachi
+### I'm JavaScript (full-stack) Developer and Content Creator (in future) - code'O Clock
 
 <!-- - 👨🏽‍🎓  -->
 <!-- - 🌱  -->
