@@ -8,7 +8,7 @@
 <!-- - 👨🏽‍🎓  -->
 <!-- - 🌱  -->
 - 📚 I'm constantly learning new skills and _striving for progress_
-- 🔭 I’m currently learning GO lang and AWS.
+- 🔭 I’m currently learning Django and AWS.
 - 🤓 I'm excellent at building web-based products. My preferred tech-stack includes Typescript, Next.js and TailwindCSS.
 - 🏆 Goal: Be the person I needed when I was younger
 - 💬 Ask me about **React.js, Next.js, MongoDB, Javascript**
