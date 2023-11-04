@@ -1,7 +1,7 @@
 <!-- <img align="center" src="" /> -->
 
 
-### Hello and Welcome 👋, I'm Muhammad Yousuf
+### Hello and Welcome👋 I'm Muhammad Yousuf.
 
 ### I'm JavaScript (full-stack) Developer and Content Creator (in future) - code'O Clock
 
