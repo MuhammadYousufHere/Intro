@@ -2,7 +2,7 @@
 
 ![welcome](https://user-images.githubusercontent.com/53159393/133920697-1774feaf-442c-4a55-b362-0e4c1cb9f339.png)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=34e2e2&random=false&width=435&lines=I'm+Muhammad+Yousuf+%F0%9F%91%8B)](https://git.io/typing-svg)
-### I'm JavaScript (full-stack) Developer and Content Creator (in future) - code'O Clock
+### I'm Full Stack Developer and Content Creator - code'O Clock
 
 <!-- - 👨🏽‍🎓  -->
 <!-- - 🌱  -->
